@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+.noti-content{
+    font-family: "Arial", Helvetica, sans-serif;
+    padding-top: 80px;
+    padding-right: 280px;
+    color: #01776c;
+    font-weight: bold;
+    position: absolute;
+    top:0%;
+    right: 50%;
+    transform: translate(50%, -50%);
+    font-size: 30px;
+    white-space: nowrap;
+border-bottom: 1px solid black;
+padding-bottom: 5px;
+}
